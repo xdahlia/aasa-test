@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "99ZNT9UC25.com.msisurfaces.TestUniversalLinks",
+        "paths": [
+          "/test/auth/callback"
+        ]
+      }
+    ]
+  }
+}
